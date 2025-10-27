@@ -1,8 +1,8 @@
-Sure — here is your **ready-to-paste** `README.md` with clean formatting. Just copy & paste into your repo:
 
----
 
-```markdown
+
+
+
 # Macbook Animation Slider
 
 A sleek animated image slider displayed inside a MacBook-shaped frame. Built using **HTML**, **CSS**, and **JavaScript**, this component is perfect for portfolios, product showcases, and UI presentations.
